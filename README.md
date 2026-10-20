@@ -37,4 +37,4 @@ The sensor and servo share 5V and GND through the breadboard.
 More projects coming soon!
 
 ## Author
-Dharsine G M| [LinkedIn](www.linkedin.com/in/dharsine)
+Dharsine G M| [LinkedIn](https://www.linkedin.com/in/dharsine)
